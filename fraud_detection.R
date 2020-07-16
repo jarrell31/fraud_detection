@@ -4,7 +4,7 @@ credit_card <- read.csv("creditcard.csv")
 #check structure
 str(credit_card)
 
-#look at first/last 20 observations
+#look at first/last observations
 head(credit_card)
 tail(credit_card)
 
